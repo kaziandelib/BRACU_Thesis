@@ -10,5 +10,5 @@ Building and tuning the ARIMA model
 
 Generating forecasts and visualizing the results
 
-The goal is to demonstrate how classical statistical models like ARIMA can be applied to real-world economic data for practical forecasting tasks. This project highlights skills in time series analysis, data preprocessing, model evaluation, and visualization using Python libraries such as pandas, matplotlib, and statsmodels.
+The goal is to demonstrate how classical statistical models like ARIMA can be applied to real-world economic data for practical forecasting tasks. This project highlights skills in time series analysis, data preprocessing, model evaluation, and visualization using Python libraries such as pandas and matplotlib
 
